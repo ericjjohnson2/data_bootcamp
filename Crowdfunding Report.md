@@ -1,4 +1,6 @@
 # Crowdfunding Report
+Eric Johnson
+10/01/2023
 
 ## Summary
 I analyzed data from a sample of 1,000 crowdfunding campaigns from 2010-2020 from several categories and searched for trends in success, failures, time periods, and locations. Below are my findings.
